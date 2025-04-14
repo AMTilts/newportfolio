@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  @apply bg-primary-dark text-text-light font-sans antialiased;
+}
+
+/* Add any other global styles here */
